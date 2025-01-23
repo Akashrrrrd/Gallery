@@ -44,7 +44,7 @@ const Header = () => {
       </div>
       <div className="flex items-center gap-4 mt-6">
         <Link
-          href="https://www.linkedin.com/in/your-linkedin-username"
+          href="https://www.linkedin.com/in/aakash---rajendran/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:opacity-80 transition-opacity"
@@ -52,7 +52,7 @@ const Header = () => {
           <LinkedinIcon size={32} />
         </Link>
         <Link
-          href="https://github.com/your-github-username"
+          href="https://github.com/Akashrrrrd"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:opacity-80 transition-opacity"
