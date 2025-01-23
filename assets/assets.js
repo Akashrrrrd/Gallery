@@ -125,6 +125,13 @@ export const serviceData = [
       "Containerizing applications to streamline development, testing, and deployment using Docker.",
     link: "",
   },
+  {
+    icon: assets.mobile_icon,
+    title: "React Native App Development",
+    description:
+      "Creating cross-platform mobile applications with native performance using React Native.",
+    link: "",
+  },
 ];
 
 export const infoList = [
