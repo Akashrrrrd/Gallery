@@ -81,49 +81,48 @@ export const workData = [
     title: "SyncOps",
     description: "Web Development",
     bgImage: "/work-1.png",
+    githubLink: "https://github.com/Akashrrrrd/Sync-Ops",
   },
   {
     title: "AgroConnect",
     description: "Web Development",
     bgImage: "/work-2.png",
+    githubLink: "https://github.com/Akashrrrrd/AgroConnect",
   },
   {
     title: "LearnFree",
     description: "Web Development",
     bgImage: "/work-3.png",
+    githubLink: "https://github.com/Akashrrrrd/LearnFree",
   },
   {
     title: "Vidyutrenz",
     description: "Web & App",
     bgImage: "/work-4.png",
+    githubLink: "https://github.com/Akashrrrrd/Vidyutrenz_25",
   },
 ];
 
 export const serviceData = [
   {
     icon: assets.web_icon,
-    title: "Web design",
-    description: "Web development is the process of building, programming...",
-    link: "",
-  },
-  {
-    icon: assets.mobile_icon,
-    title: "Mobile app",
+    title: "Full Stack Development",
     description:
-      "Mobile app development involves creating software for mobile devices...",
+      "Building dynamic and responsive web applications using React, Node.js, and MongoDB.",
     link: "",
   },
   {
     icon: assets.ui_icon,
-    title: "UI/UX design",
+    title: "UI/UX Design",
     description:
-      "UI/UX design focuses on creating a seamless user experience...",
+      "Designing user-friendly and intuitive interfaces to provide seamless user experiences.",
     link: "",
   },
   {
     icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
+    title: "Docker",
+    description:
+      "Containerizing applications to streamline development, testing, and deployment using Docker.",
     link: "",
   },
 ];
