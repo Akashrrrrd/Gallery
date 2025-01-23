@@ -35,7 +35,8 @@ const Navbar = () => {
             src={assets.logo}
             alt=""
             className="w-28 cursor-pointer mr-14"
-          /> */}<h1 className="font-Orbiton text-4xl">Akash</h1>
+          /> */}
+          <h1 className="font-Orbiton text-4xl">Akash</h1>
         </a>
         <ul
           className={`hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3 ${
